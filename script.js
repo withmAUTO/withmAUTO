@@ -1,3 +1,3 @@
 function contactSeller() {
-    alert("Contact the seller at: example@example.com");
+    alert("Contact the seller at: withmauto.international@gmail.com");
 }
